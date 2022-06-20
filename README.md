@@ -64,19 +64,19 @@ plt.show()
 
 ## Output:
 
-intial data set:
+##intial data set:
 
 ![image](https://user-images.githubusercontent.com/98681990/174661679-729d7633-7309-4e58-9b09-f4d7f0ceb4ae.png)
 
-data information:
+##data information:
 
 ![image](https://user-images.githubusercontent.com/98681990/174661709-c3c92854-9675-43b3-8d1c-9bca843c8691.png)
 
-Elbow graph:
+##Elbow graph:
 
 ![image](https://user-images.githubusercontent.com/98681990/174661769-a24aad62-9109-4bdc-9aa7-c481f0aa1012.png)
 
-Cluster graph:
+##Cluster graph:
 
 ![image](https://user-images.githubusercontent.com/98681990/174661802-8b294213-8870-46fd-8dc9-954ac63b2ecc.png)
 
